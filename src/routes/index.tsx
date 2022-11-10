@@ -4,8 +4,8 @@ import Counter from "~/components/Counter";
 export default function Home() {
   return (
     <main>
-      <Title>Hello World</Title>
-      <h1>Hello world!</h1>
+      <Title>Counting Clicks</Title>
+      <h1>If o entere here >> Hit a click</h1>
       <Counter />
       <p>
         Visit{" "}
